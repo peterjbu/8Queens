@@ -1,0 +1,10 @@
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Madilynn Mae West\Documents\Peter's\Lab4\Lab4\obj\Debug\Lab4.pdb
